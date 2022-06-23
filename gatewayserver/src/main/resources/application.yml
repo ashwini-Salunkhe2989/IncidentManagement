@@ -1,0 +1,8 @@
+keycloak:
+  realm: incidentmanagementfinleap
+  auth-server-url: http://localhost:7080/auth
+  resource: incidentmanagementclient
+  public-client: true
+  bearer-only: true
+  
+
